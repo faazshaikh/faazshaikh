@@ -17,9 +17,10 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://faazs-portfolio-m8jvgaygq-faazshaikhs-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-faazshaikh.com-000000?logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-faazshaikh.com-1f6feb?logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
 
 ---
 
