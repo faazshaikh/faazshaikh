@@ -4,23 +4,22 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/faazshaikh">
+  <a href="https://github.com/faazshaikh" style="text-decoration:none;">
     <img src="https://img.shields.io/github/followers/faazshaikh?label=Follow&style=social" alt="GitHub Follow"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/faaz-shaikh-4bb566313/?originalSubdomain=ca">
+  <a href="https://www.linkedin.com/in/faaz-shaikh-4bb566313/?originalSubdomain=ca" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-Faaz%20Shaikh-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:Faazshaikh@hotmail.com">
+  <a href="mailto:Faazshaikh@hotmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-Faazshaikh%40hotmail.com-1f6feb?logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://faazs-portfolio-m8jvgaygq-faazshaikhs-projects.vercel.app/">
+  <a href="https://faazs-portfolio-m8jvgaygq-faazshaikhs-projects.vercel.app/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Portfolio-faazshaikh.com-1f6feb?logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-
 
 ---
 
