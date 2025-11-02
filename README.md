@@ -49,14 +49,12 @@
 - **Hash Table Indexing (C)** — Large-dataset indexing with a street-name hash index, load-factor analysis, and benchmarked search.  
   <a href="https://github.com/faazshaikh/Hash-Table-Indexing">Repo</a>
 
+- **BangYourHead (Group Project)** — Full-featured booking web app developed collaboratively, allowing clients to schedule and manage appointments.  
+  <a href="https://github.com/zshan-dev/bangyourhead">Repo</a>
+
 ---
 
 ### 📈 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=faazshaikh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faazshaikh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="left">
   <img height="180" src="https://streak-stats.demolab.com?user=faazshaikh&theme=tokyonight&hide_border=true" />
@@ -76,4 +74,3 @@
 - LinkedIn: **[linkedin.com/in/faaz-shaikh-4bb566313](https://www.linkedin.com/in/faaz-shaikh-4bb566313/?originalSubdomain=ca)**  
 
 ---
-<!-- Tip: to use this, create a repo named exactly 'faazshaikh' and put this README.md in it. -->
