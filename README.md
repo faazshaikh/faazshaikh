@@ -1,5 +1,3 @@
-<!-- Profile README for github.com/faazshaikh -->
-
 <h1 align="center">👋 Hi, I'm Faaz</h1>
 <p align="center">
   <b>Software Developer</b> building modern web apps, performant systems, and clean, scalable code.
