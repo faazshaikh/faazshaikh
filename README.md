@@ -10,7 +10,7 @@
 
 ---
 
-### 🧰 Languages & Technologies I Know
+### 💻 Languages & Technologies I Know
 
 **Programming:**  
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
@@ -39,7 +39,7 @@
 
 ---
 
-### 📫 Contact
+### 📧 Contact
 - Email: **Faazshaikh@hotmail.com**  
 - LinkedIn: **[linkedin.com/in/faaz-shaikh-4bb566313](https://www.linkedin.com/in/faaz-shaikh-4bb566313/?originalSubdomain=ca)**  
 
