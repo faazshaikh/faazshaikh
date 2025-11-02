@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://github.com/faazshaikh"><img src="https://img.shields.io/github/followers/faazshaikh?label=Follow&style=social" /></a>
-  <a href="https://www.linkedin.com/in/faazshaikh"><img src="https://img.shields.io/badge/LinkedIn-faazshaikh-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:faazshaikh@hotmail.com"><img src="https://img.shields.io/badge/Email-faazshaikh%40hotmail.com-1f6feb?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/faaz-shaikh-4bb566313/?originalSubdomain=ca"><img src="https://img.shields.io/badge/LinkedIn-faaz--shaikh--4bb566313-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:Faazshaikh@hotmail.com"><img src="https://img.shields.io/badge/Email-Faazshaikh%40hotmail.com-1f6feb?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 - **Quran Memorization App** — React app with progress tracking, review system, and analytics.  
   <a href="https://github.com/faazshaikh/Quran-Memorization-App">Repo</a>
 
-- **Hash Table Indexing (C)** — Large-dataset indexing with a street-name hash index, load-factor analysis, and benchmarked search.
+- **Hash Table Indexing (C)** — Large-dataset indexing with a street-name hash index, load-factor analysis, and benchmarked search.  
   <a href="https://github.com/faazshaikh/Hash-Table-Indexing">Repo</a>
 
 ---
@@ -65,15 +65,15 @@
 ---
 
 ### 🚀 What I’m Working On
-- Building full-stack features with React + Node
-- Writing efficient C and Java for systems & algorithms
-- Improving testing, performance, and developer experience
+- Building full-stack features with React + Node  
+- Writing efficient C and Java for systems & algorithms  
+- Improving testing, performance, and developer experience  
 
 ---
 
 ### 📫 Contact
-- Email: **faazshaikh@hotmail.com**  
-- LinkedIn: **linkedin.com/in/faazshaikh**
+- Email: **Faazshaikh@hotmail.com**  
+- LinkedIn: **[linkedin.com/in/faaz-shaikh-4bb566313](https://www.linkedin.com/in/faaz-shaikh-4bb566313/?originalSubdomain=ca)**  
 
 ---
 <!-- Tip: to use this, create a repo named exactly 'faazshaikh' and put this README.md in it. -->
