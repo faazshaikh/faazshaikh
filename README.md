@@ -53,26 +53,6 @@
 
 ---
 
-### 📌 Pinned Projects
-
-- **Quran Memorization App** — React app with progress tracking, review system, and analytics.  
-  <a href="https://github.com/faazshaikh/Quran-Memorization-App">Repo</a>
-
-- **Hash Table Indexing (C)** — Large-dataset indexing with a street-name hash index, load-factor analysis, and benchmarked search.  
-  <a href="https://github.com/faazshaikh/Hash-Table-Indexing">Repo</a>
-
-- **BangYourHead (Group Project)** — Full-featured booking web app developed collaboratively, allowing clients to schedule and manage appointments.  
-  <a href="https://github.com/zshan-dev/bangyourhead">Repo</a>
-  
----
-
-### 🚀 What I’m Working On
-- Building full-stack features with React + Node  
-- Writing efficient C and Java for systems & algorithms  
-- Improving testing, performance, and developer experience  
-
----
-
 ### 📫 Contact
 - Email: **Faazshaikh@hotmail.com**  
 - LinkedIn: **[linkedin.com/in/faaz-shaikh-4bb566313](https://www.linkedin.com/in/faaz-shaikh-4bb566313/?originalSubdomain=ca)**  
