@@ -7,6 +7,7 @@
   <a href="https://github.com/faazshaikh"><img src="https://img.shields.io/github/followers/faazshaikh?label=Follow&style=social" /></a>
   <a href="https://www.linkedin.com/in/faaz-shaikh-4bb566313/?originalSubdomain=ca"><img src="https://img.shields.io/badge/LinkedIn-faaz--shaikh--4bb566313-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Faazshaikh@hotmail.com"><img src="https://img.shields.io/badge/Email-Faazshaikh%40hotmail.com-1f6feb?logo=gmail&logoColor=white" /></a>
+  <a href="https://faazs-portfolio-m8jvgaygq-faazshaikhs-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?logo=vercel&logoColor=white" alt="Portfolio" / </a>
 </p>
 
 ---
