@@ -5,7 +5,7 @@
   <a href="https://github.com/faazshaikh" style="display:inline-block;line-height:0;text-decoration:none;"><img style="display:block" src="https://img.shields.io/github/followers/faazshaikh?label=Follow&style=social" alt="GitHub Follow"></a>
   <a href="https://www.linkedin.com/in/faaz-shaikh-4bb566313/?originalSubdomain=ca" style="display:inline-block;line-height:0;text-decoration:none;"><img style="display:block" src="https://img.shields.io/badge/LinkedIn-Faaz%20Shaikh-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:Faazshaikh@hotmail.com" style="display:inline-block;line-height:0;text-decoration:none;"><img style="display:block" src="https://img.shields.io/badge/Email-Faazshaikh%40hotmail.com-1f6feb?logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://faazs-portfolio-m8jvgaygq-faazshaikhs-projects.vercel.app/" style="display:inline-block;line-height:0;text-decoration:none;"><img style="display:block" src="https://img.shields.io/badge/Portfolio-faazshaikh.com-1f6feb?logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://faazs-portfolio.vercel.app/" style="display:inline-block;line-height:0;text-decoration:none;"><img style="display:block" src="https://img.shields.io/badge/Portfolio-faazshaikh.com-1f6feb?logo=vercel&logoColor=white" alt="Portfolio"></a>
 </div>
 
 ---
