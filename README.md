@@ -1,24 +1,11 @@
 <h1 align="center">👋 Hi, I'm Faaz</h1>
-<p align="center">
-  <b>Software Developer</b> building modern web apps, performant systems, and clean, scalable code.
-</p>
+<p align="center"><b>Software Developer</b> building modern web apps, performant systems, and clean, scalable code.</p>
 
-<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; align-items:center;">
-  <a href="https://github.com/faazshaikh" style="text-decoration:none;">
-    <img src="https://img.shields.io/github/followers/faazshaikh?label=Follow&style=social" alt="GitHub Follow">
-  </a>
-
-  <a href="https://www.linkedin.com/in/faaz-shaikh-4bb566313/?originalSubdomain=ca" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Faaz%20Shaikh-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-
-  <a href="mailto:Faazshaikh@hotmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-Faazshaikh%40hotmail.com-1f6feb?logo=gmail&logoColor=white" alt="Email">
-  </a>
-
-  <a href="https://faazs-portfolio-m8jvgaygq-faazshaikhs-projects.vercel.app/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-faazshaikh.com-1f6feb?logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
+<div align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:10px;align-items:center;">
+  <a href="https://github.com/faazshaikh" style="display:inline-block;line-height:0;text-decoration:none;"><img style="display:block" src="https://img.shields.io/github/followers/faazshaikh?label=Follow&style=social" alt="GitHub Follow"></a>
+  <a href="https://www.linkedin.com/in/faaz-shaikh-4bb566313/?originalSubdomain=ca" style="display:inline-block;line-height:0;text-decoration:none;"><img style="display:block" src="https://img.shields.io/badge/LinkedIn-Faaz%20Shaikh-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:Faazshaikh@hotmail.com" style="display:inline-block;line-height:0;text-decoration:none;"><img style="display:block" src="https://img.shields.io/badge/Email-Faazshaikh%40hotmail.com-1f6feb?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://faazs-portfolio-m8jvgaygq-faazshaikhs-projects.vercel.app/" style="display:inline-block;line-height:0;text-decoration:none;"><img style="display:block" src="https://img.shields.io/badge/Portfolio-faazshaikh.com-1f6feb?logo=vercel&logoColor=white" alt="Portfolio"></a>
 </div>
 
 ---
