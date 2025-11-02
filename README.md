@@ -51,15 +51,7 @@
 
 - **BangYourHead (Group Project)** — Full-featured booking web app developed collaboratively, allowing clients to schedule and manage appointments.  
   <a href="https://github.com/zshan-dev/bangyourhead">Repo</a>
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img height="180" src="https://streak-stats.demolab.com?user=faazshaikh&theme=tokyonight&hide_border=true" />
-</p>
-
+  
 ---
 
 ### 🚀 What I’m Working On
