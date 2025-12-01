@@ -33,7 +33,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/GDB-CC342D?logo=gnu&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
 
