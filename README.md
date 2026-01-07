@@ -1,45 +1,92 @@
-<h1 align="center">👋 Hi, I'm Faaz</h1>
-<p align="center"><b>Software Developer</b> building modern web apps, performant systems, and clean, scalable code.</p>
+<h1 align="center">👋 Hi, I'm Faaz Shaikh</h1>
+<p align="center">
+  <b>Software Developer Intern</b> | Computer Science @ McMaster University  
+  <br />
+  Building scalable web apps, backend systems, and cloud-powered products.
+</p>
 
-<div align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:10px;align-items:center;">
-  <a href="https://github.com/faazshaikh" style="display:inline-block;line-height:0;text-decoration:none;"><img style="display:block" src="https://img.shields.io/github/followers/faazshaikh?label=Follow&style=social" alt="GitHub Follow"></a>
-  <a href="https://www.linkedin.com/in/faaz-shaikh-4bb566313/?originalSubdomain=ca" style="display:inline-block;line-height:0;text-decoration:none;"><img style="display:block" src="https://img.shields.io/badge/LinkedIn-Faaz%20Shaikh-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:Faazshaikh@hotmail.com" style="display:inline-block;line-height:0;text-decoration:none;"><img style="display:block" src="https://img.shields.io/badge/Email-Faazshaikh%40hotmail.com-1f6feb?logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://faazshaikh.vercel.app/" style="display:inline-block;line-height:0;text-decoration:none;"><img style="display:block" src="https://img.shields.io/badge/Portfolio-faazshaikh.com-1f6feb?logo=vercel&logoColor=white" alt="Portfolio"></a>
+<div align="center">
+  <a href="https://github.com/faazshaikh">
+    <img src="https://img.shields.io/github/followers/faazshaikh?label=Follow&style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/faaz-shaikh-4bb566313/?originalSubdomain=ca">
+    <img src="https://img.shields.io/badge/LinkedIn-Faaz%20Shaikh-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:faazwaheedshaikh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-faazwaheedshaikh%40gmail.com-1f6feb?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://faazs.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-faazs.vercel.app-1f6feb?logo=vercel&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-### 💻 Languages & Technologies I Know
-
-**Programming:**  
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
-
-**Web / Frameworks:**  
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
-
-**Tools:**  
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GDB-CC342D?logo=gnu&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
+## 🎓 Education
+**McMaster University** — B.Sc. in Computer Science  
+📍 Hamilton, ON | **Sept 2024 – May 2028**  
+- GPA: **3.71**
+- Dean’s Honour List, Award of Excellence  
+- $3,000 Entrance Scholarship for Academic Excellence  
+- Relevant Coursework:  
+  Data Structures & Algorithms, Software Development (Java), Computer Architecture (Assembly),  
+  Software Design & Web Programming, Discrete Math, Linear Algebra
 
 ---
 
-### 📧 Contact
-- Email: **Faazshaikh@hotmail.com**  
-- LinkedIn: **[linkedin.com/in/faaz-shaikh-4bb566313](https://www.linkedin.com/in/faaz-shaikh-4bb566313/?originalSubdomain=ca)**  
+## 💼 Experience
+
+### Software Developer Intern — *The Blue Marble Academy*  
+📍 Remote | **Nov 2025 – Present**
+- Reduced content creation time by **75%** by building an AI-driven quiz generation pipeline using **Azure OpenAI, FastAPI, and Cosmos DB**
+- Designed a **3-level content management system** supporting 7 content types with validation, search, and React state management
+- Built **40+ REST APIs** with **FastAPI + MSAL authentication**, enabling secure real-time sync for **50+ weekly active users**
+
+### Class Instructor / Supervisor — *Kumon Learning Centre*  
+📍 Oakville, ON | **Sept 2020 – Aug 2024**
+- Taught **300+ students (Grades 1–12)** in math and reading
+- Managed classrooms of **40+ learners**, assessed **1,000+ assignments**, and built individualized learning plans
 
 ---
+
+## 🚀 Projects
+
+### 📖 Quran Memorization App  
+**React · Node.js · Express · SQLite · Web Speech API**
+- Full-stack app for Quran memorization with authentication, progress tracking, and recitation feedback
+- Built an Arabic speech similarity system using **Levenshtein distance**, normalization, and diacritic stripping
+- Achieved **60%+ accuracy** across 114 chapters
+
+### 📅 BookMate  
+**HTML · CSS · JavaScript · PHP · MySQL**
+- Led a team of 3 to build a booking system with authentication, admin dashboard, and real-time calendar updates
+- Implemented secure APIs using password hashing, prepared statements, and input validation
+- Supported **1,000+ bookings** while preventing SQL injection and XSS attacks
+
+### 🎬 Movie Recommendation System  
+**Java · OOP · File I/O · HashMaps**
+- Built a recommendation engine with genre similarity and rating affinity across **1,000+ movies**
+- Implemented robust CSV parsing with validation, regex checks, and exception handling
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+Python · Java · JavaScript · TypeScript · C · SQL · PHP · Bash · Haskell · LaTeX
+
+### Frameworks & Libraries
+React · Node.js · Express.js · Next.js · FastAPI · Tailwind CSS · Bootstrap
+
+### Databases & Cloud
+MySQL · PostgreSQL · Azure Cosmos DB · Azure OpenAI · Firebase
+
+### Tools
+Git · GitHub · Apache · Linux · Makefile · Unix · VS Code
+
+---
+
+## 📫 Contact
+- **Email:** faazwaheedshaikh@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/faaz-shaikh-4bb566313  
+- **Portfolio:** https://faazs.vercel.app
