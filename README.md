@@ -22,54 +22,6 @@
 
 ---
 
-## 🎓 Education
-**McMaster University** — B.Sc. in Computer Science  
-📍 Hamilton, ON | **Sept 2024 – May 2028**  
-- GPA: **3.71**
-- Dean’s Honour List, Award of Excellence  
-- $3,000 Entrance Scholarship for Academic Excellence  
-- Relevant Coursework:  
-  Data Structures & Algorithms, Software Development (Java), Computer Architecture (Assembly),  
-  Software Design & Web Programming, Discrete Math, Linear Algebra
-
----
-
-## 💼 Experience
-
-### Software Developer Intern — *The Blue Marble Academy*  
-📍 Remote | **Nov 2025 – Present**
-- Reduced content creation time by **75%** by building an AI-driven quiz generation pipeline using **Azure OpenAI, FastAPI, and Cosmos DB**
-- Designed a **3-level content management system** supporting 7 content types with validation, search, and React state management
-- Built **40+ REST APIs** with **FastAPI + MSAL authentication**, enabling secure real-time sync for **50+ weekly active users**
-
-### Class Instructor / Supervisor — *Kumon Learning Centre*  
-📍 Oakville, ON | **Sept 2020 – Aug 2024**
-- Taught **300+ students (Grades 1–12)** in math and reading
-- Managed classrooms of **40+ learners**, assessed **1,000+ assignments**, and built individualized learning plans
-
----
-
-## 🚀 Projects
-
-### 📖 Quran Memorization App  
-**React · Node.js · Express · SQLite · Web Speech API**
-- Full-stack app for Quran memorization with authentication, progress tracking, and recitation feedback
-- Built an Arabic speech similarity system using **Levenshtein distance**, normalization, and diacritic stripping
-- Achieved **60%+ accuracy** across 114 chapters
-
-### 📅 BookMate  
-**HTML · CSS · JavaScript · PHP · MySQL**
-- Led a team of 3 to build a booking system with authentication, admin dashboard, and real-time calendar updates
-- Implemented secure APIs using password hashing, prepared statements, and input validation
-- Supported **1,000+ bookings** while preventing SQL injection and XSS attacks
-
-### 🎬 Movie Recommendation System  
-**Java · OOP · File I/O · HashMaps**
-- Built a recommendation engine with genre similarity and rating affinity across **1,000+ movies**
-- Implemented robust CSV parsing with validation, regex checks, and exception handling
-
----
-
 ## 🛠️ Technical Skills
 
 ### Languages
