@@ -2,7 +2,7 @@
 <p align="center">
   <b>Software Developer Intern</b> | Computer Science @ McMaster University  
   <br />
-  Building scalable web apps, backend systems, and cloud-powered products.
+  Building fun web apps, backend systems, and cloud-powered products.
 </p>
 
 <div align="center">
