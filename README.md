@@ -26,16 +26,16 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white" />
 </p>
 
 ### 🌐 Frameworks & Libraries
