@@ -3,7 +3,7 @@
   <b>Software Developer Intern</b> | Computer Science @ McMaster University 
   <br />  
   Building intresting web apps, backend systems, and cloud-powered products.
-</p>
+</p> 
 
 <div align="center">
   <a href="https://github.com/faazshaikh">
