@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Faaz Shaikh</h1>                                                                                                                                                 
-<p align="center">    
+<p align="center">     
   <b>Software Developer Intern</b> | Computer Science @ McMaster University 
   <br />  
   Building intresting web apps, backend systems, and cloud-powered products.
