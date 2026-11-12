@@ -13,7 +13,7 @@
 <a href="https://github.com/faazshaikh"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
-
+ 
 ---
 
 ## 👨‍💻 About Me
