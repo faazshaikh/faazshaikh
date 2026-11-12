@@ -109,11 +109,16 @@ I like building full-stack apps, working with backend systems, and finding ways 
 
 ---
 
+
 ## 💼 Experience
 
 **🧬 Sanofi** | Data Engineering Co-op | May 2026 - Present
 
+Built Python automation tools, optimized Snowflake queries and backend systems, and developed CI/CD pipelines to improve data migration, application performance, and code validation.
+
 **💻 The Blue Marble Academy** | Software Developer Intern | Nov 2025 - Jan 2026
+
+Developed full-stack features using React, FastAPI, and Azure Cosmos DB, including AI-powered quiz generation, REST APIs, and a content management system.
 
 ---
 
