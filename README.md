@@ -18,10 +18,6 @@
 
 ## 👨‍💻 About Me
 
-Hey, I'm Faaz, a Computer Science student at **McMaster University** interested in software development, data engineering, and AI.
-
-I like building full-stack apps, working with backend systems, and finding ways to make things faster and more efficient. I've also been getting into AI agents and experimenting with different ways to use them in projects.
-
 - 🏢 Currently a **Data Engineering Co-op at Sanofi**
 - 💻 Previously a **Software Developer Intern at The Blue Marble Academy**
 - 🏆 **2x Hackathon Winner** at DeltaHacks and GDG McMaster's Mac-a-Thon
@@ -92,21 +88,6 @@ I like building full-stack apps, working with backend systems, and finding ways 
   <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-### 🤖 AI & Other Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-222222?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ElevenLabs-333333?style=for-the-badge&logo=elevenlabs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Presage%20SDK-00599C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mineflayer-16A34A?style=for-the-badge&logoColor=white" />
-</p>
-
 ---
 
 
@@ -139,23 +120,6 @@ An AI emergency response platform that uses real-time vital signs, injury detect
 A full-stack Quran memorization app with speech-based recitation feedback, progress tracking, and personalized practice tools.
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=faazshaikh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=EF4444&text_color=C9D1D9&rank_icon=github" height="170" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faazshaikh&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=C9D1D9&langs_count=8" height="170" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=faazshaikh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=EF4444" alt="GitHub streak" />
-
-</div>
-
----
-
 
 
 </div>
