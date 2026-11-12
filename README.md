@@ -7,10 +7,19 @@
 
 <br/>
 
-<a href="https://faazs.vercel.app"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/faazwshaikh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn icon" /> <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="mailto:faazwaheedshaikh@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/faazshaikh"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<div align="center">
+
+  <a href="https://faazs.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-18181B?style=for-the-badge&logoColor=white&labelColor=18181B" alt="Portfolio" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/faazwshaikh"><img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge&logoColor=white&labelColor=18181B" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:faazwaheedshaikh@gmail.com"><img src="https://img.shields.io/badge/EMAIL-18181B?style=for-the-badge&logoColor=white&labelColor=18181B" alt="Email" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/faazshaikh"><img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logoColor=white&labelColor=18181B" alt="GitHub" /></a>
+
+</div>
+
 
 </div>
  
