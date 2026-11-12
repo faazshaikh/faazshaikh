@@ -7,15 +7,10 @@
 
 <br/>
 
-
-<div align="center">
-
 <a href="https://faazs.vercel.app"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/faazwshaikh"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/faazwshaikh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn icon" /> <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge" alt="LinkedIn" /></a>
 <a href="mailto:faazwaheedshaikh@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/faazshaikh"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-</div>
 
 </div>
 
@@ -28,6 +23,36 @@
 - 🏆 **2x Hackathon Winner** at DeltaHacks and GDG McMaster's Mac-a-Thon
 - ⚙️ Interested in backend engineering, full-stack development, cloud, and AI
 - 🚀 Usually working on a side project or learning something new
+
+---
+
+## 💼 Experience
+
+**🧬 Sanofi** | Data Engineering Co-op | May 2026 - Present
+
+Built Python automation tools, optimized Snowflake queries and backend systems, and developed CI/CD pipelines to improve data migration, application performance, and code validation.
+
+**💻 The Blue Marble Academy** | Software Developer Intern | Nov 2025 - Jan 2026
+
+Developed full-stack features using React, FastAPI, and Azure Cosmos DB, including AI-powered quiz generation, REST APIs, and a content management system.
+
+---
+
+## 🚀 Featured Projects
+
+### 🎮 [AgentsArena](https://github.com/faazshaikh/AgentsArena)
+**🏆 GDG McMaster Mac-a-Thon 2026 Winner**
+
+A Minecraft-based platform for testing how AI agents work together, manage resources, and respond to different challenges.
+
+### 🚑 [Frontline](https://github.com/faazshaikh/deltahacks-12)
+**🏆 DeltaHacks 12 Winner**
+
+An AI emergency response platform that uses real-time vital signs, injury detection, and a conversational 911 operator to assist first responders.
+
+### 📖 [Quran Memorization App](https://github.com/faazshaikh/Quran-Memorization-App)
+
+A full-stack Quran memorization app with speech-based recitation feedback, progress tracking, and personalized practice tools.
 
 ---
 
@@ -93,38 +118,3 @@
   <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
----
-
-
-## 💼 Experience
-
-**🧬 Sanofi** | Data Engineering Co-op | May 2026 - Present
-
-Built Python automation tools, optimized Snowflake queries and backend systems, and developed CI/CD pipelines to improve data migration, application performance, and code validation.
-
-**💻 The Blue Marble Academy** | Software Developer Intern | Nov 2025 - Jan 2026
-
-Developed full-stack features using React, FastAPI, and Azure Cosmos DB, including AI-powered quiz generation, REST APIs, and a content management system.
-
----
-
-## 🚀 Featured Projects
-
-### 🎮 [AgentsArena](https://github.com/faazshaikh/AgentsArena)
-**🏆 GDG McMaster Mac-a-Thon 2026 Winner**
-
-A Minecraft-based platform for testing how AI agents work together, manage resources, and respond to different challenges.
-
-### 🚑 [Frontline](https://github.com/faazshaikh/deltahacks-12)
-**🏆 DeltaHacks 12 Winner**
-
-An AI emergency response platform that uses real-time vital signs, injury detection, and a conversational 911 operator to assist first responders.
-
-### 📖 [Quran Memorization App](https://github.com/faazshaikh/Quran-Memorization-App)
-
-A full-stack Quran memorization app with speech-based recitation feedback, progress tracking, and personalized practice tools.
-
----
-
-
-</div>
