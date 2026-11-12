@@ -156,29 +156,6 @@ A full-stack Quran memorization app with speech-based recitation feedback, progr
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faazshaikh&bg_color=0d1117&color=ef4444&line=dc2626&point=ffffff&area=true&area_color=991b1b&hide_border=true" width="100%" alt="Contribution activity" />
-
-</div>
-
----
-
-<div align="center">
-
-### 📬 Let's Connect
-
-Feel free to reach out about projects, software engineering, or opportunities.
-
-<a href="https://faazs.vercel.app"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/faazwshaikh"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:faazwaheedshaikh@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/faazshaikh"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:991B1B,100:0D1117&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
