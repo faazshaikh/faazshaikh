@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:991B1B,100:EF4444&height=200&section=header&text=Faaz%20Shaikh&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%40%20McMaster%20University&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Faaz Shaikh" />
 
