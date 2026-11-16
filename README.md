@@ -1,6 +1,6 @@
 
 <div align="center">    
-
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:991B1B,100:EF4444&height=200&section=header&text=Faaz%20Shaikh&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%40%20McMaster%20University&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Faaz Shaikh" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=EF4444&center=true&vCenter=true&width=650&height=50&lines=Hey%2C+I'm+Faaz+%F0%9F%91%8B;Software+Developer+%7C+Data+Engineer;Full-Stack+%7C+Backend+%7C+Cloud;2x+Hackathon+Winner+%F0%9F%8F%86;Always+Building+Something+New" alt="Typing animation" /></a>
