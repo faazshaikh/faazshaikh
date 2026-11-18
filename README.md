@@ -25,16 +25,6 @@
  
 ---
 
-## 👨‍💻 About Me
-
-- 🏢 Currently a **Data Engineering Co-op at Sanofi**
-- 💻 Previously a **Software Developer Intern at The Blue Marble Academy**
-- 🏆 **2x Hackathon Winner** at DeltaHacks and GDG McMaster's Mac-a-Thon
-- ⚙️ Interested in backend engineering, full-stack development, cloud, and AI
-- 🚀 Usually working on a side project or learning something new
-
----
-
 ## 💼 Experience
 
 **🧬 Sanofi** | Data Engineering Co-op | May 2026 - Present
